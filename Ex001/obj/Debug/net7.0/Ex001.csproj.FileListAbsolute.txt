@@ -1,0 +1,15 @@
+F:\gb\lesson\example1\Ex001\bin\Debug\net7.0\Ex001.exe
+F:\gb\lesson\example1\Ex001\bin\Debug\net7.0\Ex001.deps.json
+F:\gb\lesson\example1\Ex001\bin\Debug\net7.0\Ex001.runtimeconfig.json
+F:\gb\lesson\example1\Ex001\bin\Debug\net7.0\Ex001.dll
+F:\gb\lesson\example1\Ex001\bin\Debug\net7.0\Ex001.pdb
+F:\gb\lesson\example1\Ex001\obj\Debug\net7.0\Ex001.csproj.AssemblyReference.cache
+F:\gb\lesson\example1\Ex001\obj\Debug\net7.0\Ex001.GeneratedMSBuildEditorConfig.editorconfig
+F:\gb\lesson\example1\Ex001\obj\Debug\net7.0\Ex001.AssemblyInfoInputs.cache
+F:\gb\lesson\example1\Ex001\obj\Debug\net7.0\Ex001.AssemblyInfo.cs
+F:\gb\lesson\example1\Ex001\obj\Debug\net7.0\Ex001.csproj.CoreCompileInputs.cache
+F:\gb\lesson\example1\Ex001\obj\Debug\net7.0\Ex001.dll
+F:\gb\lesson\example1\Ex001\obj\Debug\net7.0\refint\Ex001.dll
+F:\gb\lesson\example1\Ex001\obj\Debug\net7.0\Ex001.pdb
+F:\gb\lesson\example1\Ex001\obj\Debug\net7.0\Ex001.genruntimeconfig.cache
+F:\gb\lesson\example1\Ex001\obj\Debug\net7.0\ref\Ex001.dll
